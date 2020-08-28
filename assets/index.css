@@ -1,0 +1,35 @@
+.hero{
+    background: #fafafa;
+    min-width:auto;
+    min-height:auto;    
+}
+.main{
+    display: flex;
+    background: #fafafa;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.section{
+    
+}
+.name{
+    
+    text-align: center;
+    width: 99%;
+}
+.profile_img{
+    text-align: center;
+}
+.img{
+    max-height: 100px;
+    min-width: 100px;
+    border-radius: 10px;
+    
+}
+.biografia{
+    text-align: center;
+    
+    font-weight: 300;
+    font-style: arial;
+}
